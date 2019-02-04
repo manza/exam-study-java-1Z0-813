@@ -9,7 +9,7 @@ Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certifi
 
 ## Language Enhancements
 (done) - Develop code that uses String objects in the switch statement, binary literals, and numeric literals, including underscores in literals
-- Develop code that uses try-with-resources statements, including using classes that implement the AutoCloseable interface
+(done) - Develop code that uses try-with-resources statements, including using classes that implement the AutoCloseable interface
 - Develop code that handles multiple Exception types in a single catch block
 - Use static and default methods of an interface including inheritance rules for a default method
 
