@@ -1,7 +1,9 @@
 # 1Z0-813 Java Certification Annotations
 Exam 1Z0-813 for upgrading to Java 8 OCP certification
 
-Oficial Link: https://education.oracle.com/pt_BR/upgrade-to-java-se-8-ocp/pexam_1Z0-813
+Official Link: https://education.oracle.com/pt_BR/upgrade-to-java-se-8-ocp/pexam_1Z0-813
+
+Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certification/javase-8-upgrade.html#language6
 
 # Exam Topics
 
