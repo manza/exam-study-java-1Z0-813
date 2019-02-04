@@ -6,7 +6,7 @@ Oficial Link: https://education.oracle.com/pt_BR/upgrade-to-java-se-8-ocp/pexam_
 # Exam Topics
 
 ## Language Enhancements
-- Develop code that uses String objects in the switch statement, binary literals, and numeric literals, including underscores in literals
+(done) - Develop code that uses String objects in the switch statement, binary literals, and numeric literals, including underscores in literals
 - Develop code that uses try-with-resources statements, including using classes that implement the AutoCloseable interface
 - Develop code that handles multiple Exception types in a single catch block
 - Use static and default methods of an interface including inheritance rules for a default method
