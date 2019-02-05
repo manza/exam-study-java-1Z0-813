@@ -14,11 +14,11 @@ Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certifi
 (done) - Use static and default methods of an interface including inheritance rules for a default method
 
 ## Localization
-- Describe the advantages of localizing an application and developing code that defines, reads, and sets the locale with a Locale object
-- Build a resource bundle for a locale and call a resource bundle from an application
-- Create and manage date- and time-based events by using LocalDate, LocalTime, LocalDateTime, Instant, Period, and Duration, including a combination of date and time in a single object
-- Format dates, numbers, and currency values for localization with the NumberFormat and DateFormat classes, including number and date format patterns
-- Work with dates and times across time zones and manage changes resulting from daylight savings
+(done) - Describe the advantages of localizing an application and developing code that defines, reads, and sets the locale with a Locale object
+(done) - Build a resource bundle for a locale and call a resource bundle from an application
+(done) - Create and manage date- and time-based events by using LocalDate, LocalTime, LocalDateTime, Instant, Period, and Duration, including a combination of date and time in a single object
+(done) - Format dates, numbers, and currency values for localization with the NumberFormat and DateFormat classes, including number and date format patterns
+(done) - Work with dates and times across time zones and manage changes resulting from daylight savings
 
 ## Lambda
 - Define and write functional interfaces and describe the interfaces of the java.util.function package
