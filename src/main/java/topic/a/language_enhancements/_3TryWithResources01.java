@@ -13,7 +13,7 @@ import java.util.Enumeration;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
-public class TryWithResources01 {
+public class _3TryWithResources01 {
 
     public static void main(String[] args) throws IOException {
         System.out.println(readFirstLineFromFile("C:\\users\\romo\\test.mv.db"));

@@ -2,7 +2,7 @@ package topic.a.language_enhancements;
 
 import java.util.ArrayList;
 
-public class SwitchDemoFallThrough {
+public class _1SwitchDemoFallThrough {
 
     public static void main(String[] args) {
         ArrayList<String> futureMonths = new ArrayList<String>();

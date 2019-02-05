@@ -1,6 +1,6 @@
 package topic.a.language_enhancements;
 
-public class UsingUnderscoreLiterals {
+public class _2UsingUnderscoreLiterals {
     public static void main(String[] args) {
         long credit = 123_342_3_54L;
         long credit2 = 1_2_3L;

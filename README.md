@@ -10,8 +10,8 @@ Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certifi
 ## Language Enhancements
 (done) - Develop code that uses String objects in the switch statement, binary literals, and numeric literals, including underscores in literals
 (done) - Develop code that uses try-with-resources statements, including using classes that implement the AutoCloseable interface
-- Develop code that handles multiple Exception types in a single catch block
-- Use static and default methods of an interface including inheritance rules for a default method
+(done) - Develop code that handles multiple Exception types in a single catch block
+(done) - Use static and default methods of an interface including inheritance rules for a default method
 
 ## Localization
 - Describe the advantages of localizing an application and developing code that defines, reads, and sets the locale with a Locale object

@@ -1,6 +1,6 @@
 package topic.a.language_enhancements;
 
-public class SwitchDemo2 {
+public class _1SwitchDemo2 {
 
     public static void main(String[] args) {
         int month = 2;

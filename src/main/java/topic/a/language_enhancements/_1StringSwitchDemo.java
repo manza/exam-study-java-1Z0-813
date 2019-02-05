@@ -1,10 +1,10 @@
 package topic.a.language_enhancements;
 
-public class StringSwitchDemo {
+public class _1StringSwitchDemo {
 
     public static void main(String[] args) {
         String month = "july";
-        int returnedMonthNumber = StringSwitchDemo.getMonthNumber(month);
+        int returnedMonthNumber = _1StringSwitchDemo.getMonthNumber(month);
 
         if (returnedMonthNumber == 0) {
             System.out.println("Invalid month");
