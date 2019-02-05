@@ -37,8 +37,8 @@ Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certifi
 - Use the parallel Fork/Join Framework
 
 ## Java File I/O (NIO.2)
-- Operate on file and directory paths by using the Paths class
-- Check, delete, copy, or move a file or directory by using the Files class
+(done) - Operate on file and directory paths by using the Paths class
+(done) - Check, delete, copy, or move a file or directory by using the Files class
 - Recursively access a directory tree by using the DirectoryStream and FileVisitor interfaces
 - Find a file by using the PathMatcher interface, and use Java SE 8 I/O improvements, including Files.find(), Files.walk(), and lines() methods
 - Observe the changes in a directory by using the WatchService interface
