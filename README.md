@@ -12,6 +12,7 @@ Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certifi
 (done) - Develop code that uses try-with-resources statements, including using classes that implement the AutoCloseable interface
 (done) - Develop code that handles multiple Exception types in a single catch block
 (done) - Use static and default methods of an interface including inheritance rules for a default method
+       - Checked how to use it in Kathy Sierra also
 
 ## Localization
 (done) - Describe the advantages of localizing an application and developing code that defines, reads, and sets the locale with a Locale object
