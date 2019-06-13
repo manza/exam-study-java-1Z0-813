@@ -25,7 +25,7 @@ Official Link Study Guide: https://docs.oracle.com/javase/tutorial/extra/certifi
 (done) - Define and write functional interfaces and describe the interfaces of the java.util.function package
 (done) - Describe a lambda expression; refactor the code that uses an anonymous inner class to use a lambda expression; describe type inference and target typing
 (done) - Develop code that uses the built-in interfaces included in the java.util.function package, such as Function, Consumer, Supplier, UnaryOperator, Predicate, and Optional APIs, including the primitive and binary variations of the interfaces
-- Develop code that uses a method reference, including refactoring a lambda expression to a method reference
+(done) - Develop code that uses a method reference, including refactoring a lambda expression to a method reference
 
 ## Java Streams
 - Describe the Stream interface and pipelines; create a stream by using the Arrays.stream() and  IntStream.range() methods; identify the lambda operations that are lazy
